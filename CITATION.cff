@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use these data, please cite them as below."
+type: dataset
+title: "German translations of the Babylonian Talmud: Lazarus Goldschmidt (complete) and 19th-century translations"
+authors:
+  - family-names: Itkin
+    given-names: Igor Mendel
+version: "1.0.0"
+date-released: "2026-11-23"
+license: CC-BY-4.0
+repository-code: "https://github.com/mitkin89/german-talmud-translations"
+keywords: [Talmud, Babylonian Talmud, Bavli, German translation, Goldschmidt, Pinner, Sammter, Rawicz, Straschun, Sefaria]
+references:
+  - type: book
+    title: "Der babylonische Talmud"
+    authors:
+      - family-names: Goldschmidt
+        given-names: Lazarus
+    publisher:
+      name: Jüdischer Verlag
+    year: 1929

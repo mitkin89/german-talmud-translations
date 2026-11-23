@@ -1,0 +1,12 @@
+{
+  "title": "German translations of the Babylonian Talmud: Lazarus Goldschmidt (complete) and 19th-century translations",
+  "upload_type": "dataset",
+  "description": "The complete German translation of the Babylonian Talmud by Lazarus Goldschmidt (12 vols., Jüdischer Verlag, Berlin 1929–1936; all 37 tractates, 81,372 segments, 76,993 footnotes), as digitized for Sefaria in 2021 by a team around the Rabbinerseminar zu Berlin, and eight tractates in 19th-century German translations: M. Pinner, Berakhot (1842); A. Sammter, Bava Metzia (1876); M. Rawicz, Megillah (1883), Rosh Hashanah (1886), Sanhedrin (1892), Ketubot (1898–1900) and Chullin I (1908); D. O. Straschun, Taanit (1883); with Pinner's introduction to the Talmud. Structured JSON by tractate, folio side and segment (Sefaria's division), footnotes in place. The 19th-century translations were transcribed with Claude (Anthropic, 2026) from page images. Goldschmidt files: public domain (CC0 1.0); everything else: CC BY 4.0. Part of the Safran library (https://github.com/mitkin89/Safran).",
+  "creators": [{"name": "Itkin, Igor Mendel"}],
+  "license": "cc-by-4.0",
+  "keywords": ["Talmud", "Babylonian Talmud", "German translation", "Goldschmidt", "Pinner", "Sammter", "Rawicz", "Straschun", "Sefaria"],
+  "related_identifiers": [
+    {"identifier": "https://github.com/mitkin89/Safran", "relation": "isSupplementTo", "scheme": "url"},
+    {"identifier": "https://www.sefaria.org/texts/Talmud", "relation": "isDerivedFrom", "scheme": "url"}
+  ]
+}
