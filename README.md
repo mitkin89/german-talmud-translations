@@ -1,5 +1,7 @@
 # German translations of the Babylonian Talmud
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24466136.svg)](https://doi.org/10.5281/zenodo.24466136)
+
 **English** · [Deutsch](README.de.md)
 
 The complete German translation of the Babylonian Talmud by **Lazarus Goldschmidt**, and eight tractates in **19th-century German translations**, as structured data by tractate, folio side (amud) and segment, with the translators' footnotes in place.
@@ -53,5 +55,7 @@ The files in `goldschmidt/` are taken unchanged from Sefaria's export of the ver
 See [LICENSE.md](LICENSE.md).
 
 ## Citation
+
+Itkin, Igor Mendel (ed.): *German translations of the Babylonian Talmud*, version 1.0.0, 2026. https://doi.org/10.5281/zenodo.24466136
 
 See [CITATION.cff](CITATION.cff). Each release is archived on Zenodo with its own DOI.

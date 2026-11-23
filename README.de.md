@@ -1,5 +1,7 @@
 # Deutsche Übersetzungen des Babylonischen Talmud
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24466136.svg)](https://doi.org/10.5281/zenodo.24466136)
+
 [English](README.md) · **Deutsch**
 
 Die vollständige deutsche Übersetzung des Babylonischen Talmud von **Lazarus Goldschmidt** und acht Traktate in **deutschen Übersetzungen des 19. Jahrhunderts**, als strukturierte Daten nach Traktat, Blattseite (Amud) und Abschnitt, mit den Anmerkungen der Übersetzer an ihrer Stelle.
@@ -42,5 +44,7 @@ Aufbau und Auszeichnung sind in der [englischen Fassung](README.md#format) besch
 Siehe [LICENSE.md](LICENSE.md).
 
 ## Zitieren
+
+Itkin, Igor Mendel (Hg.): *German translations of the Babylonian Talmud*, Version 1.0.0, 2026. https://doi.org/10.5281/zenodo.24466136
 
 Siehe [CITATION.cff](CITATION.cff). Jede Version wird auf Zenodo mit eigener DOI archiviert.
