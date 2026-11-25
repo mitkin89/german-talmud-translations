@@ -1,5 +1,12 @@
 # German translations of the Babylonian Talmud
 
+<p align="center">
+  <img src="portraits/goldschmidt.jpg" alt="Lazarus Goldschmidt" title="Lazarus Goldschmidt" height="180">
+  <img src="portraits/rawicz.jpg" alt="Victor Meyer Rawicz" title="Victor Meyer Rawicz" height="180">
+  <br>
+  <sub>Lazarus Goldschmidt · Victor Meyer Rawicz</sub>
+</p>
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24466136.svg)](https://doi.org/10.5281/zenodo.24466136)
 
 **English** · [Deutsch](README.de.md)
